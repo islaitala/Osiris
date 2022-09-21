@@ -1,0 +1,28 @@
+﻿  dllmain.cpp
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\dllmain.cpp(12,1): warning C4005: 'PI': macro redefinition
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\useful.h(3): message : see previous definition of 'PI'
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\dllmain.cpp(96,41): warning C4305: 'initializing': truncation from 'int' to 'float'
+  ESP.cpp
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\ESP.cpp(40,58): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\ESP.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+  geom.cpp
+  glDraw.cpp
+  glText.cpp
+  hook.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl2.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  menu.cpp
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\menu.cpp(22,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\menu.cpp(23,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  settings.cpp
+  vector3.cpp
+C:\Users\islai\source\repos\AC_nopaste_internal_cheat\AC_nopaste_internal_cheat\vector3.cpp(140,66): warning C4244: 'return': conversion from 'double' to 'f', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1082 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AC_nopaste_internal_cheat.vcxproj -> C:\Users\islai\source\repos\AC_nopaste_internal_cheat\Release\AC_nopaste_internal_cheat.dll
